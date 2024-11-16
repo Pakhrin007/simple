@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simple/pages/homepage.dart';
 import 'package:simple/pages/splashscreen.dart';
+// import 'package:simple/pages/webview.dart';
 
 void main() {
   runApp(const MyApp());
